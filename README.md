@@ -1,14 +1,22 @@
 # Automacao_QA_C-T
-Testes de automação em java com arquivo Gehrkin no Readme.
+Testes de automação em java com arquivo Gehrkin.
 
-Teste em linguagem Gherkin
+Teste automação em linguagem Gherkin
+Feito pelo grupo 
+Guilherme J C Marinho RA 320249104
+Carlos Augusto de Souza Filho RA 319223326
+Thais Ferreira dos Santos RA 320139966
+Gabriel Gomes Cunha Cotta Miranda RA 320254011
+
 
 Primeiro teste de Automação
-Funcionalidade: Busca no Banco de Questões
-Cenário: Busca por questão inexistente
-Dado que navego para a página de busca do banco de questões
-E digito 'Science: Computers' no campo de busca
-Quando clico no botão de buscar
-Então visualizo uma mensagem de erro com o texto 'No questions found.'
+Foi feito para buscar no banco de questões um resultado inexistente.
+Teste realizado com sucesso na linguagem Java com a IDE Intellij.
 
+Segundo teste de Automação
+Foi feito para buscar no banco de categoria um resultado 'Science: Computers' de 25 resultados
+Teste realizado com sucesso na linguagem Java com a IDE Intellij.
+
+Terceiro teste de Automação
+Foi feito para buscar no banco de usuários um resultado 'Karen'.
 Teste realizado com sucesso na linguagem Java com a IDE Intellij.
