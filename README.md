@@ -7,6 +7,7 @@ Guilherme J C Marinho RA 320249104
 Carlos Augusto de Souza Filho RA 319223326
 Thais Ferreira dos Santos RA 320139966
 Gabriel Gomes Cunha Cotta Miranda RA 320254011
+Alex dos Santos Moreira RA 31928001
 
 
 Primeiro teste de Automação
