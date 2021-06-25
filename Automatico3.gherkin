@@ -1,8 +1,12 @@
+# Automacao teste 1 pt-br
+
+
 Funcionalidade: Busca no Banco de Usuarios
-Cenário: Busca pelo usuario : Karen no banco de dados
+
+Cenário: Busca pelo usuario Karen no banco de dados
+
 Dado que navego para a página de busca do banco de questões
 E digito 'Karen' no campo de busca
 E seleciono o banco User
 Quando clico no botão de buscar
 Então visualizo todas as questões criadas pela Karen
-© 2021 GitHub, Inc.
