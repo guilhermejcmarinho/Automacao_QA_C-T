@@ -1,8 +1,12 @@
+# Automacao teste 1 pt-br
+
+
 Funcionalidade: Busca no Banco de categoria
+
 Cenário: Busca por category Science: Computers
+
 Dado que navego para a página de busca do banco de questões
 E digito 'Computers' no campo de busca
 E seleciono o banco category 
 Quando clico no botão de buscar
 Então visualizo 25 itens da Category 'Science: Computers'
-© 2021 GitHub, Inc.
