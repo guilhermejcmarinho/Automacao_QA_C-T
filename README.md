@@ -1,8 +1,7 @@
 # Automacao_QA_C-T
 Testes de automação em java com arquivo Gehrkin.
 
-Teste automação em linguagem Gherkin
-Feito pelo grupo
+Teste automação feito pelo grupo:
 
 Guilherme J C Marinho RA 320249104
 
