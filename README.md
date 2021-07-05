@@ -1,4 +1,4 @@
-# Automacao_QA_C-T
+# Automacao_QA_CI&T
 Testes de automação em java com arquivo Gehrkin.  
 
 Teste automação feito pelo grupo:  
